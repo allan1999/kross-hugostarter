@@ -43,9 +43,9 @@ skill:
   - title: Le Chardonnay
     progress: 14%
     color: "#FFFFE0"
-  - title: Web App
-    progress: 70%
-    color: "#ffbcaa"
+  - title: Le Porto
+    progress: 20%
+    color: "#bb0b0b"
 experience:
   enable: true
   title: Experience
