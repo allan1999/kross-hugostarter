@@ -50,18 +50,10 @@ experience:
   enable: true
   title: Experience
   item:
-  - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
-  - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
-  - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+  - logo: ''
+    title: ''
+    company: ''
+    duration: ''
 education:
   enable: true
   title: Education
@@ -106,7 +98,7 @@ testimonial:
   title: Testimonials
   item:
   - name: Jesica Gomez
-    image: images/testimonial/client-1.png
+    image: "/images/31462a0edab80f0f2f0a41be790d28c9.png"
     designation: CEO, Funder
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -114,7 +106,7 @@ testimonial:
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
   - name: Shirley Scot
-    image: images/testimonial/client-1.png
+    image: "/images/2656cf219fef6959a3b2c99d827dfe73.png"
     designation: CEO, Funder
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -122,7 +114,7 @@ testimonial:
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
   - name: Jessica Julie
-    image: images/testimonial/client-1.png
+    image: "/images/png-ratafia.png"
     designation: CEO, Funder
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
