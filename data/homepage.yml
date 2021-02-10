@@ -28,7 +28,7 @@ about:
     Mais t'es sûr de toi? T'en as la preuve par trois?
   button:
     enable: true
-    label: know more
+    label: Voir Plus
     URL: about
 skill:
   enable: true
