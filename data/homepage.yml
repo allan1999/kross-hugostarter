@@ -3,11 +3,29 @@ banner:
   title: Salut<br> j'suis <br> Allan Pasdeloup <br> UX designer
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: |-
+    Ouais c'est qui là?
+    Fatal, c'est Vitoo, ouvre-moi
+    Ça va Vitoo? T'as l'air bizarre
+    Qu'est-ce qu'il y a? Bien, t'as vu
+    Non, ça va pas non
+    Ben dis-moi, vas-y qu'est-ce qu'il y a, fais pas ta pute
+    Fatal, assieds-toi faut que j'te parle
+    J'ai passé ma soirée à boire
+    Fatal, j'la sens pas, je sais pas, elle doute de moi
+    Mais Vitoo arrête, tu sais ta meuf t'aime, ta meuf m'a dit
+    Tu sais avec Vitoo la confiance règne, et c'est mon p'tit choux à la crème
+    Faut pas que tu paniques j'te jure
+    Ta meuf est cool, ta meuf est bonne, Vitoo
+    T'en niques des tonnes, elle s'doute de rien, elle est trop conne
+    Non mais qu'est-ce t'en sais toi?
+    Ça fait deux mois qu'elle me fait trop peur
+    Ah bon?
+    Qu'elle check mes messages tout les quarts d'heure
+    Change ton code PIN
+    Elle a infiltré mon répondeur
+    Ma meuf est devenue une autre femme, ouais
+    Mais t'es sûr de toi? T'en as la preuve par trois?
   button:
     enable: true
     label: know more
