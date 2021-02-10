@@ -32,11 +32,11 @@ about:
     URL: about
 skill:
   enable: true
-  title: Skills
+  title: Les Boissons
   item:
-  - title: Web Design
+  - title: JagerBumbs
     progress: 90%
-    color: "#fdb157"
+    color: "#008000"
   - title: Logo Design
     progress: 60%
     color: "#9473e6"
