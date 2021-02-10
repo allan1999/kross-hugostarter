@@ -39,10 +39,10 @@ skill:
     color: "#008000"
   - title: La triple charrues
     progress: 9%
+    color: "#FFe346"
+  - title: Le Chardonnay
+    progress: 14%
     color: "#FFFFE0"
-  - title: After Effects
-    progress: 80%
-    color: "#bdecf6"
   - title: Web App
     progress: 70%
     color: "#ffbcaa"
